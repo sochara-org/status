@@ -12,8 +12,6 @@ sites:
     url: https://wiki.sochara.org
   - name: LMS
     url: https://lms.sophea-sochara.org
-  - name: Test Broken Site (Remove)
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /status
