@@ -4,19 +4,19 @@
     "url": "https://sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/sochara.org.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1201,
-    "timeDay": 1218,
-    "timeWeek": 1212,
-    "timeMonth": 1201,
-    "timeYear": 1201,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1208,
+    "timeDay": 1299,
+    "timeWeek": 1233,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 7
     }
   },
   {
