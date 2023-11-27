@@ -22,25 +22,27 @@
     "url": "https://clic.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/clic.sochara.org.ico",
     "slug": "clic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3292,
-    "timeDay": 2899,
-    "timeWeek": 3064,
-    "timeMonth": 3292,
-    "timeYear": 3292,
-    "dailyMinutesDown": {}
+    "time": 3343,
+    "timeDay": 3870,
+    "timeWeek": 3286,
+    "timeMonth": 3343,
+    "timeYear": 3343,
+    "dailyMinutesDown": {
+      "2023-11-27": 2
+    }
   },
   {
     "name": "Archives",
     "url": "https://archives.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/archives.sochara.org.ico",
     "slug": "archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 742,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "Archives",
     "url": "https://wiki.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.sochara.org.ico",
     "slug": "archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 742,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "LMS",
