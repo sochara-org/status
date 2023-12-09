@@ -76,19 +76,19 @@
     "url": "https://lms.sophea-sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/lms.sophea-sochara.org.ico",
     "slug": "lms",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 358,
     "timeDay": 232,
     "timeWeek": 319,
     "timeMonth": 357,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-12-09": 6,
+      "2023-12-09": 0,
       "2023-11-25": 25
     }
   }
