@@ -6,9 +6,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "82.08%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.71%",
     "time": 1229,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 1279,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-01-01": 203,
+      "2024-01-01": 209,
       "2023-12-31": 49
     }
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 492,
-    "timeWeek": 578,
-    "timeMonth": 650,
-    "timeYear": 708,
+    "time": 705,
+    "timeDay": 487,
+    "timeWeek": 570,
+    "timeMonth": 645,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-01-01": 0
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 492,
-    "timeWeek": 578,
-    "timeMonth": 650,
-    "timeYear": 708,
+    "time": 705,
+    "timeDay": 487,
+    "timeWeek": 570,
+    "timeMonth": 645,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-01-01": 0
     }
