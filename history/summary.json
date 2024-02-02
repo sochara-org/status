@@ -4,10 +4,10 @@
     "url": "https://sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/sochara.org.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1268,
@@ -16,6 +16,7 @@
     "timeMonth": 1336,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2024-02-02": 2,
       "2024-01-01": 223,
       "2023-12-31": 49
     }
@@ -50,11 +51,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 737,
-    "timeWeek": 732,
-    "timeMonth": 702,
+    "timeDay": 678,
+    "timeWeek": 721,
+    "timeMonth": 700,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "Archives",
@@ -68,11 +71,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 737,
-    "timeWeek": 732,
-    "timeMonth": 702,
+    "timeDay": 678,
+    "timeWeek": 721,
+    "timeMonth": 700,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "LMS",
