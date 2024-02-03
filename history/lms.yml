@@ -1,7 +1,7 @@
 url: https://lms.sophea-sochara.org
-status: up
-code: 200
-responseTime: 633
-lastUpdated: 2024-02-02T23:12:32.446Z
+status: down
+code: 500
+responseTime: 262
+lastUpdated: 2024-02-03T20:20:28.922Z
 startTime: 2023-11-01T08:30:36.812Z
 generator: Upptime <https://github.com/upptime/upptime>
