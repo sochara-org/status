@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sochara.org.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "40.15%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.44%",
+    "uptimeDay": "38.58%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.44%",
     "time": 1418,
     "timeDay": 0,
     "timeWeek": 1215,
     "timeMonth": 1323,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2024-03-24": 740,
+      "2024-03-24": 762,
       "2024-03-23": 122,
       "2024-01-01": 223,
       "2023-12-31": 49
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 510,
-    "timeWeek": 526,
-    "timeMonth": 567,
-    "timeYear": 642,
+    "time": 641,
+    "timeDay": 509,
+    "timeWeek": 524,
+    "timeMonth": 566,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2024-03-24": 0
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 510,
-    "timeWeek": 526,
-    "timeMonth": 567,
-    "timeYear": 642,
+    "time": 641,
+    "timeDay": 509,
+    "timeWeek": 524,
+    "timeMonth": 566,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2024-03-24": 0
     }
