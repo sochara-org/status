@@ -8,7 +8,7 @@ sites:
     url: https://clic.sochara.org
   - name: Archives
     url: https://archives.sochara.org
-  - name: Archives
+  - name: Wiki
     url: https://wiki.sochara.org
   - name: LMS
     url: https://lms.sophea-sochara.org
