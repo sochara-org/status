@@ -4,11 +4,11 @@
     "url": "https://sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/sochara.org.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.03%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.19%",
     "time": 1401,
     "timeDay": 1246,
@@ -16,6 +16,7 @@
     "timeMonth": 1314,
     "timeYear": 1401,
     "dailyMinutesDown": {
+      "2024-04-22": 4,
       "2024-03-25": 176,
       "2024-03-24": 1440,
       "2024-03-23": 122,
@@ -28,11 +29,11 @@
     "url": "https://clic.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/clic.sochara.org.ico",
     "slug": "clic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 3132,
     "timeDay": 3357,
@@ -40,6 +41,7 @@
     "timeMonth": 3240,
     "timeYear": 3132,
     "dailyMinutesDown": {
+      "2024-04-22": 2,
       "2024-04-09": 49
     }
   },
@@ -48,10 +50,10 @@
     "url": "https://archives.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/archives.sochara.org.ico",
     "slug": "archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 618,
@@ -60,6 +62,7 @@
     "timeMonth": 541,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2024-04-22": 2,
       "2024-03-24": 7
     }
   },
@@ -68,9 +71,9 @@
     "url": "https://wiki.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.sochara.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
@@ -80,6 +83,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2024-04-22": 0,
       "2024-04-09": 49
     }
   },
