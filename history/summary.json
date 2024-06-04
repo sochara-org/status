@@ -49,9 +49,9 @@
     "url": "https://archives.sochara.org",
     "icon": "https://icons.duckduckgo.com/ip3/archives.sochara.org.ico",
     "slug": "archives",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -61,6 +61,7 @@
     "timeMonth": 1023,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-05-12": 17,
       "2024-03-24": 7
     }
