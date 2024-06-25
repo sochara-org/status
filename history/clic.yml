@@ -1,7 +1,7 @@
 url: https://clic.sochara.org
-status: up
-code: 200
-responseTime: 9977
-lastUpdated: 2024-06-24T23:17:10.582Z
+status: down
+code: 502
+responseTime: 544
+lastUpdated: 2024-06-25T09:36:26.820Z
 startTime: 2023-11-01T08:30:31.040Z
 generator: Upptime <https://github.com/upptime/upptime>
