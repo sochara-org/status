@@ -4,7 +4,7 @@ repo: status
 sites:
   - name: Homepage
     url: https://sochara.org
-  - name: Clic
+  - name: CLIC
     url: https://clic.sochara.org
   - name: Archives
     url: https://archives.sochara.org
@@ -12,6 +12,8 @@ sites:
     url: https://wiki.sochara.org
   - name: LMS
     url: https://lms.sophea-sochara.org
+  - name: Library
+    url: https://library.sochara.org
 
 status-website:
   baseUrl: /status
